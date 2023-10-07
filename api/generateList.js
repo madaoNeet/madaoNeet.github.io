@@ -12,7 +12,7 @@ function getRandomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min)
 }
 
-function generateList(amount, name, age) {
+export const generateList = (amount, name, age) => {
 
     const vowels = ['a', 'e', 'i', 'o', 'u'];
     const consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y'];
@@ -48,5 +48,5 @@ function generateList(amount, name, age) {
         }
         array.push(obj)
     }
-    console.log(array)
+   return array;
 }
