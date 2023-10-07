@@ -1,0 +1,52 @@
+[
+    {
+        "id": "d9d44850-b4d6-4b8b-b8ce-c17daa4a75f7",
+        "name": "Urahara",
+        "age": 33
+    },
+    {
+        "id": "94b43f80-37fc-46b7-b321-453fa0090a02",
+        "name": "Ichigo",
+        "age": 25
+    },
+    {
+        "id": "75507ccf-e5a6-42cf-aa20-a510264328cf",
+        "name": "tetsuya",
+        "age": 23
+    },
+    {
+        "id": "a1a8769d-3f73-4675-8a14-765e68db460b",
+        "name": "Akame",
+        "age": 21
+    },
+    {
+        "id": "21877805-53ae-46ac-a9a2-ae2a37296423",
+        "name": "Himawari",
+        "age": 13
+    },
+    {
+        "id": "e6bd3a64-d501-4d93-b03d-6587f5885d54",
+        "name": "Boruto",
+        "age": 12
+    },
+    {
+        "id": "808b289a-462e-41ec-888e-3b325e13f91f",
+        "name": "Goku",
+        "age": 42
+    },
+    {
+        "id": "dc446d8a-f963-42b0-be57-35778df76db6",
+        "name": "Zoro",
+        "age": 43
+    },
+    {
+        "id": "93f58086-2c0d-4de8-aca6-5537807ea507",
+        "name": "Luffy",
+        "age": 52
+    },
+    {
+        "id": "a46498f7-bf37-45be-9a96-e277818626d5",
+        "name": "Arcard",
+        "age": 29
+    }
+]
